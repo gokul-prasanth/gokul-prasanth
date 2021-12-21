@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gokul-prasanth
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Java, Hibernate and SpringBoot
+- 👀 I’m interested in Java Development
+- 🌱 I’m working in learning Java, Hibernate and SpringBoot
 - 📫 How to reach me: prasanthgokulgp@gmail.com 
